@@ -1,0 +1,1 @@
+import"./entry.2HlaNeCx.js";const t=""+new URL("screencapture-prismic-gridsome-starter-netlify-app-2023-11-07-21-58-43-952x1575.C6f8wUHA.png",import.meta.url).href,e=""+new URL("scute-952x456.EKJVQXI9.png",import.meta.url).href;export{t as _,e as a};
